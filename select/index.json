@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プロメテ",
+  "base_artist": "sanetii",
+  "createdAt": "2026-02-24T08:11:57.217723Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プロメテ",
+      "artist": "sanetii",
+      "has_synced": false,
+      "path": "select/pl_01_プロメテ_sanetii.txt"
+    }
+  ]
+}
